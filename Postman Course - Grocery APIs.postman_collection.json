@@ -2647,6 +2647,20 @@
 					}
 				}
 			]
+		},
+		{
+			"name": "spare parts, can be deleted",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "spare parts, can be deleted",
+					"host": [
+						"spare parts, can be deleted"
+					]
+				}
+			},
+			"response": []
 		}
 	],
 	"auth": {
